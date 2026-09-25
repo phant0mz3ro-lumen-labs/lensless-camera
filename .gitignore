@@ -14,9 +14,13 @@ results/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !results/.gitkeep
+src/
 
 # VS Code
 .vscode/
 
 # Virtual env
 robotics-env/
+
+#wifi
+hardware/esp32_cam/esp32_cam_stream/esp32_cam_stream/secrets.h
